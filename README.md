@@ -25,6 +25,11 @@ Home consoles:
 * :heavy_minus_sign: GameCube
 
 * :white_check_mark: Wii
+    
+    * :white_check_mark: Black
+    * :white_check_mark: Blue
+    * :white_check_mark: Pink
+    * :white_check_mark: White
 
 * :heavy_minus_sign: Wii U
 
