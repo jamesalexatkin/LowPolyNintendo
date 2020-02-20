@@ -1,4 +1,4 @@
-# LowPolyNintendo
+# Low-poly Nintendo
 Repository for low-poly renders of Nintendo consoles/controllers.
 
 All renders are 1920x1080, making them ideal for desktop backgrounds.
