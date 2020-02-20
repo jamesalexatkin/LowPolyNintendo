@@ -3,6 +3,8 @@ Repository for low-poly renders of Nintendo consoles/controllers.
 
 All renders are 1920x1080, making them ideal for desktop backgrounds.
 
+<img src="https://raw.githubusercontent.com/jamesalexatkin/LowPolyNintendo/master/N64/N64%20Controller%20Red.png" width="480" height="270" />
+
 Home consoles:
 
 * :white_check_mark: NES
